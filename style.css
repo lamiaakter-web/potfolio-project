@@ -359,6 +359,9 @@ button{
     
 }
 /* leatest works area */
+.latest_works{
+    height: 720px;
+}
 .titlearea{
     padding: 20px 0;
 }
@@ -409,6 +412,25 @@ button{
     display: flex;
     justify-content: center;
     gap: 20px;
+}
+.project_main{
+    background: url(./project_bg.jpg);
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+}
+.project_on{
+    display: flex;
+    margin: 0 auto;
+    color: white;
+    background-color: rgba(5, 6, 52, 0.853);
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+    gap: 150px;
+    height:100px;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 

@@ -3,4 +3,4 @@
 # HTML
 # CSS
 
-Live link:https://github.com/lamiaakter-web/potfolio-project
+Live link:https: https://lamiaakter-web.github.io/potfolio-project/
